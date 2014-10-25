@@ -1,2 +1,2 @@
-startbootstrap-the-big-picture
-==============================
+Start Bootstrap - The Big Picture
+=========
