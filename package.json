@@ -1,7 +1,7 @@
 {
     "title": "The Big Picture",
     "name": "startbootstrap-the-big-picture",
-    "version": "4.1.2",
+    "version": "4.2.0",
     "scripts": {
         "start": "gulp watch"
     },
