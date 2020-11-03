@@ -1,10 +1,10 @@
-# [Start Bootstrap - The Big Picture](https://startbootstrap.com/templates/the-big-picture/)
+# [Start Bootstrap - The Big Picture](https://startbootstrap.com/template/the-big-picture/)
 
-[The Big Picture](https://startbootstrap.com/templates/the-big-picture/) is a responsive HTML template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). The template features a full page background image and a fixed bottom navigation bar.
+[The Big Picture](https://startbootstrap.com/template/the-big-picture/) is a responsive HTML template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). The template features a full page background image and a fixed bottom navigation bar.
 
 ## Preview
 
-[![The Big Picture Preview](https://startbootstrap.com/assets/img/screenshots/templates/the-big-picture.png)](https://startbootstrap.github.io/startbootstrap-the-big-picture/)
+[![The Big Picture Preview](https://assets.startbootstrap.com/img/screenshots/templates/the-big-picture.png)](https://startbootstrap.github.io/startbootstrap-the-big-picture/)
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-the-big-picture/)**
 
@@ -20,7 +20,7 @@
 
 To begin using this template, choose one of the following options to get started:
 
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/templates/the-big-picture/)
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template/the-big-picture/)
 * Install via npm: `npm i startbootstrap-the-big-picture`
 * Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-the-big-picture.git`
 * [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-the-big-picture)
@@ -39,7 +39,7 @@ You must have npm and Gulp installed globally on your machine in order to use th
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-the-big-picture/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/templates/the-big-picture/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-the-big-picture/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/template/the-big-picture/).
 
 ## About
 
@@ -48,10 +48,10 @@ Start Bootstrap is an open source library of free Bootstrap templates and themes
 * <https://startbootstrap.com>
 * <https://twitter.com/SBootstrap>
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**.
+Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
 
-* <http://davidmiller.io>
-* <https://twitter.com/davidmillerskt>
+* <https://davidmiller.io>
+* <https://twitter.com/davidmillerhere>
 * <https://github.com/davidtmiller>
 
 Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
